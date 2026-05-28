@@ -1,3 +1,3 @@
-1. Tool i installed was Cursor IDE, Github
-2. Add the Claude Code and Codex Extension to my Cursor IDE, create public repository on my github and open the repository on my cursor IDE, create the README.md file on the repository, and commit and push to GitHub.
-3. i find no issues to install, add extension, open repositories and commit push the change
+1. The tools I installed were Cursor IDE and GitHub.
+2. I added the Claude Code and Codex extensions to my Cursor IDE, created a public repository on GitHub, opened the repository in Cursor IDE, created a README.md file in the repository, then committed and pushed it to GitHub.
+3. I encountered an issue when trying to commit and push the updates. The commit process was delayed and got stuck, so I solved the problem by killing the commit and push task, then trying to commit and push again.
