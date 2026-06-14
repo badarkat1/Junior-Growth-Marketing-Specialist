@@ -1,3 +1,37 @@
-1. The tools I installed were Cursor IDE and GitHub.
-2. I added the Claude Code and Codex extensions to my Cursor IDE, created a public repository on GitHub, opened the repository in Cursor IDE, created a README.md file in the repository, then committed and pushed it to GitHub.
-3. I encountered an issue when trying to commit and push the updates. The commit process was delayed and got stuck, so I solved the problem by killing the commit and push task, then trying to commit and push again.
+#LinkedIn Organic Content Strategy Research for B2B SaaS
+
+#Overview
+Research project analyzing how B2B SaaS practitioners use LinkedIn organic content to build audience, authority, and business pipeline.
+
+#Objective
+Identify repeatable frameworks from real practitioners:
+- Content creation
+- Distribution strategy
+- Audience building
+- Founder-led marketing
+
+## Topic
+LinkedIn Organic Content Strategy for B2B SaaS
+
+## Research Method
+Collected:
+- LinkedIn posts
+- YouTube transcripts
+- Public content frameworks
+
+## Expert Criteria
+Experts are selected based on:
+- Active practitioners
+- Real B2B SaaS experience
+- Consistent content publishing
+- Proven audience growth
+
+## Repository Structure
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
+
+scripts/
+└── fetch_transcripts.py
