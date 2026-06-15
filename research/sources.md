@@ -2,7 +2,7 @@
 Topic:
 LinkedIn Organic Content Strategy for B2B SaaS
 
-## Experts
+# Experts
 | Expert | Platform | Link | Notes |
 |-|-|-|-|
 | Justin Welsh | LinkedIn | https://linkedin.com | Founder-led content system |
@@ -16,14 +16,21 @@ LinkedIn Organic Content Strategy for B2B SaaS
 | Peter Conforti | LinkedIn | https://linkedin.com | Newsletter strategy |
 | Nitin Kaura | LinkedIn | https://linkedin.com | Buyer-focused content |
 
-## Research Log
+# Research Log
 
-### Expert:
-Name:
-Platform:
-Date collected:
-Content link:
-Summary:
+# Expert 1 
+# Justin Welsh
+
+Collected:
 - 
-Key insights:
+
+Main Findings:
+1. 
+2. 
+3. 
+
+Content Type:
+-
+
+B2B SaaS Application:
 -
